@@ -1,7 +1,7 @@
 x=input ('number: ')
 if x==0:
-	print ("zero")
+	print x,("is zero")
 elif x<0:
-	print ("negative") 
+	print x,("is negative") 
 else:
-	print ("positive")
+	print x,("is positive")
